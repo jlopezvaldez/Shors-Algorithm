@@ -7738,23 +7738,23 @@
     ]
   },
   "packageFolders": {
-    "/Users/jonathan/.nuget/packages/": {},
+    "/Users/ikeavin/.nuget/packages/": {},
     "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jonathan/Documents/GitHub/Shors-Algorithm/Shors_Algorithm/Shors_Algorithm.csproj",
+      "projectUniqueName": "/Users/ikeavin/Desktop/RDP/Quantum/Shor's Algorithm/Shors-Algorithm/Shors_Algorithm.csproj",
       "projectName": "Shors_Algorithm",
-      "projectPath": "/Users/jonathan/Documents/GitHub/Shors-Algorithm/Shors_Algorithm/Shors_Algorithm.csproj",
-      "packagesPath": "/Users/jonathan/.nuget/packages/",
-      "outputPath": "/Users/jonathan/Documents/GitHub/Shors-Algorithm/Shors_Algorithm/obj/",
+      "projectPath": "/Users/ikeavin/Desktop/RDP/Quantum/Shor's Algorithm/Shors-Algorithm/Shors_Algorithm.csproj",
+      "packagesPath": "/Users/ikeavin/.nuget/packages/",
+      "outputPath": "/Users/ikeavin/Desktop/RDP/Quantum/Shor's Algorithm/Shors-Algorithm/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/jonathan/.nuget/NuGet/NuGet.Config"
+        "/Users/ikeavin/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
